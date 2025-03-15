@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POKEMON BACKEND")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65d536d487e3a102dde51fc63141303eaba91dcb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ad3a211087990480109b1700e80544ee8175448")]
 [assembly: System.Reflection.AssemblyProductAttribute("POKEMON BACKEND")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POKEMON BACKEND")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

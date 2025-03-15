@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "a4wED6iufHHSKhabXnlM24FDqN9H3RNISV5A5pue1P8=",
+  "Hash": "4eNRBoKw9+wZzPsExdWcwU3K1SCFNr4xnI3WxzMh2ow=",
   "Source": "POKEMON BACKEND",
   "BasePath": "_content/POKEMON BACKEND",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
