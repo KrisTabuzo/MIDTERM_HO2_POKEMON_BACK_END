@@ -1,0 +1,32 @@
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\bin\Debug\net8.0\appsettings.json
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\bin\Debug\net8.0\POKEMON BACKEND.exe
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\bin\Debug\net8.0\POKEMON BACKEND.deps.json
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\bin\Debug\net8.0\POKEMON BACKEND.runtimeconfig.json
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\bin\Debug\net8.0\POKEMON BACKEND.dll
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\bin\Debug\net8.0\POKEMON BACKEND.pdb
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\POKEMON BACKEND.csproj.AssemblyReference.cache
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\POKEMON BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\POKEMON BACKEND.AssemblyInfoInputs.cache
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\POKEMON BACKEND.AssemblyInfo.cs
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\POKEMON BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\POKEMON BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\POKEMON BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.POKEMON BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.build.POKEMON BACKEND.props
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.POKEMON BACKEND.props
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.POKEMON BACKEND.props
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\scopedcss\bundle\POKEMON BACKEND.styles.css
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\POKEMON .597EBAEA.Up2Date
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\POKEMON BACKEND.dll
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\refint\POKEMON BACKEND.dll
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\POKEMON BACKEND.pdb
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\POKEMON BACKEND.genruntimeconfig.cache
+C:\Users\Kristofher\Desktop\MIDTERM_HO2_POKEMON_BACK_END\POKEMON BACKEND\obj\Debug\net8.0\ref\POKEMON BACKEND.dll
